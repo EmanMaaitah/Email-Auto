@@ -66,3 +66,5 @@ Open an Excel file and look at who is accepted for the job and send a different 
 
 
 # Results
+
+I have put my email in the suggested emails, In order to ensure that the email is sent.
