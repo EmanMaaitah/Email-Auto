@@ -68,3 +68,6 @@ Open an Excel file and look at who is accepted for the job and send a different 
 # Results
 
 I have put my email in the suggested emails, In order to ensure that the email is sent.
+
+To watch the robot run and the results, [click here](https://drive.google.com/file/d/15ezxrGKx97KdUWz3Ak8kDC28EXNadO1I/view?usp=drive_link)
+
